@@ -27,5 +27,8 @@ for x in owoce:
 for x in "Winogrona":
     print(x) # Wyświetla każdą litere ze słowa winogrona
 
-for x in range(1, 11): # Liczby od 1 do 10
-    print(x) # Drukuje liczby od 1 do 10
+for x in range(1, 11):
+    print(x)
+
+for x in range(1, 11, 2): # Od 1 do 10 co 2 (nieparzyste)
+    print(x)
