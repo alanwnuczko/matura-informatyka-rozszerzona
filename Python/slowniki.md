@@ -101,3 +101,28 @@ for i in komputer:
 for i in komputer:
     print(komputer[i])
 ```
+
+---
+
+## Słownik zagnieżdżony
+```python
+pracownicy = {
+    "pracownik1": {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "wiek": 29
+    },
+    "pracownik2": {
+        "imie": "Krzysztof",
+        "nazwisko": "Nowak",
+        "wiek": 31
+    }
+}
+```
+### Dostęp do danych
+```python
+print(pracownicy["pracownik1"]["imie"])  # Odczytanie imienia pracownika 1
+
+pracownicy["pracownik2"]["wiek"] = 32 # Zmiana wieku pracownika 2
+
+```
