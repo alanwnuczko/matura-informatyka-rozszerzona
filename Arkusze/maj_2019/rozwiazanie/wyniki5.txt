@@ -1,0 +1,20 @@
+5_1: 63
+
+5_2: pierwszym dniem ciągu spełniającym warunek zadania jest 448, a ostatnim - 455
+
+5_3: zadanie5.xlsx
+
+5_4: 
+
+a)
+Wielkosc_chmur	Liczba_dni
+0	34
+1	102
+2	102
+3	102
+4	100
+5	60
+
+b) 296
+
+C) 286
