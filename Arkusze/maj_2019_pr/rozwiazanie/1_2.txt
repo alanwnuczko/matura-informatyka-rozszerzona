@@ -1,0 +1,2 @@
+1. Algorytm - O(n)
+2. Algorytm - O(log n)
