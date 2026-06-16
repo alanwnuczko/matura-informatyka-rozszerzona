@@ -62,3 +62,18 @@ print(math.lcm(3, 8)) # 24
 
 
 # .strip(), .lstrip(), .rstrip() - usuwanie białych znaków
+importowane = "   Python  "
+print(importowane.strip())  # Usuwa białe znaki z obu stron: "Python"
+print(importowane.lstrip()) # Usuwa białe znaki z lewej strony: "Python  "
+print(importowane.rstrip()) # Usuwa białe znaki z prawej strony: "   Python"
+
+# str.split() - dzieli string na listę słów
+string = "Byłem w sklepie"
+print(string.split()) # Wynik: ['Byłem', 'w', 'sklepie']
+
+csv = "10,1101,1011"
+print(csv.split(",")) # Wynik: ['10', '1101', '1011']
+
+# .join() łączy elementy listy w słowo
+lista = ["P", "y", "t", "h", "o", "n"]
+print("".join(lista)) # Wynik: Python
