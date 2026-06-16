@@ -32,3 +32,12 @@ for x in range(1, 11):
 
 for x in range(1, 11, 2): # Od 1 do 10 co 2 (nieparzyste)
     print(x)
+
+# in - sprawdza czy wartość jest obecna
+lista = [3, 4, 7, 1 , 2, 9, 8]
+wyszukiwana_liczba = 5
+
+if wyszukiwana_liczba in lista: # Czy wyszukiwana lista jest w liście
+    print(f"{wyszukiwana_liczba} znajduje się w liście")
+else:
+    print(f"{wyszukiwana_liczba} nie znajduje się w liście")
