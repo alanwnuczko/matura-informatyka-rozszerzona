@@ -1,0 +1,3 @@
+n   s       ile     p
+5   abcba   2       abba
+6   abbcba  2       abba

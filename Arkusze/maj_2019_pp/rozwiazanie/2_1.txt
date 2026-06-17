@@ -1,0 +1,7 @@
+n   Czy n jest liczbą pierwszą? Czy n przy dzieleniu przez 4 daje resztę 1? Rozkład n - suma kwadratów
+5   tak                         tak                                         5 = 1^2 + 2^2
+11  tak                         nie                                         -
+13  tak                         tak                                         13 = 2^2 + 3^2
+17  tak                         tak                                         17 = 1^2 + 4^2
+29  tak                         tak                                         29 = 2^2 + 5^2
+37  tak                         tak                                         37 = 1^2 + 6^2
