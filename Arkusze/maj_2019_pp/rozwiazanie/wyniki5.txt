@@ -1,0 +1,62 @@
+5_1:
+ID_publikacji	Tytul																Cena
+e779		Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet				132.99
+e703		Zaawansowany Python. Jasne, zwiezle i efektywne programowanie			132.99
+e1366		Programowanie Microsoft SQL Server 2012.								132.99
+e1195		Zapytania w jezyku T-SQL. w Microsoft SQL Server 2014 i SQL Server 2012	132.99
+a382		Trening mentalny sportowca kurs										66.99
+a1609		Ekspresowy kurs dla poczatkujacych. Angielski.							47.99
+a1255		Ekspresowy kurs dla poczatkujacych. Hiszpanski.						47.99
+a1387		Ekspresowy kurs dla srednio zaawansowanych. Hiszpanski.				47.99
+a1384		Ekspresowy kurs dla poczatkujacych. Wloski.							47.99
+a1099		Ekspresowy kurs dla srednio zaawansowanych. Angielski.					47.99
+a514		Ekspresowy kurs dla poczatkujacych. Francuski.							47.99
+a1949		Ekspresowy kurs dla poczatkujacych. Niemiecki.							47.99
+a657		Medytacja Kolorami.												45.99
+
+5_2:
+Autor									Tytul									Dziedzina
+Drea Zigarmi, Ken Blanchard, Patricia Zigarmi	Jednominutowy menedzer i przywodztwo.	ekonomia
+Brian Tracy								Zarzadzanie czasem.					ekonomia
+Rafal Janus								Excel w praktyce, 8/14					
+informatyka
+
+5_3:
+SELECT
+    FORMAT(AVG(Publikacje.Cena), "Currency"),
+    Dziedziny.Dziedzina
+FROM
+    Publikacje
+    INNER JOIN Dziedziny ON Publikacje.ID_dziedziny = Dziedziny.ID_dziedziny
+GROUP BY
+    Dziedziny.Dziedzina;
+
+8.98 zł	ekonomia
+31.99 zł	informatyka
+22.81 zł	literatura faktu
+15.97 zł	literatura piekna
+12.77 zł	nauki humanistyczne
+11.17 zł	nauki matematyczno-przyrodnicze
+16.19 zł	nauki spoleczne
+
+5_4:
+SELECT
+    TOP 1 Dziedziny.Dziedzina,
+    COUNT(Zakupy.ID_publikacji) AS Liczba_zakupów
+FROM
+    (
+        Dziedziny
+        INNER JOIN Publikacje ON Dziedziny.ID_dziedziny = Publikacje.ID_dziedziny
+    )
+    INNER JOIN Zakupy ON Publikacje.ID_publikacji = Zakupy.ID_publikacji
+GROUP BY
+    Dziedziny.Dziedzina
+ORDER BY
+    COUNT(Zakupy.ID_publikacji) DESC;
+
+Literatura piękna - 587
+
+5_5:
+Nick_klienta		kwota
+Lucky			908.47
+5dzientygodnia	13.97

@@ -1,0 +1,1 @@
+jeżeli ile = n div 2 wypisz "napis s jest palindromem"
