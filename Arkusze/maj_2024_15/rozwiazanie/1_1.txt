@@ -1,0 +1,6 @@
+liczba n rozkład liczby n na czynniki pierwsze największy czynnik
+120      2 * 2 * 2 * 3 * 5                      5
+14       2 * 7                                  7
+32       2 * 2 * 2 * 2 * 2                      2
+99       3 * 3 * 11                             11
+252      2 * 2 * 3 * 3 * 7                      7
