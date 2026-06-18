@@ -60,7 +60,7 @@ print(unikalne)
 
 # Zadanie 5
 A = {1, 2, 3, 4}
-B= {3, 4, 5, 6}
+B = {3, 4, 5, 6}
 
 # Wyznacz:
 # Sumę zbiorów
