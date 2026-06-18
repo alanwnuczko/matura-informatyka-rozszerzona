@@ -24,16 +24,14 @@ matura-informatyka-rozszerzona/
 > Kwerendy SQL do zadań znajdują się w plikach `.accdb`<br>Formuły do excela znajdują się w plikach `.xlsx`
  
 
-**Maj 2019 Poziom rozszerzony**
-Formuła od 2015
+**Maj 2019 Poziom rozszerzony (Formuła od 2015)**
 - [Arkusz cz.1](Arkusze/maj_2019_pr/arkusz_maj_2019_cz1.pdf)
 - [Arkusz cz.2](Arkusze/maj_2019_pr/arkusz_maj_2019_cz2.pdf)
 - [Rozwiązanie](Arkusze/maj_2019_pr/rozwiazanie/)
 - [Zasady oceniania](Arkusze/maj_2019_pr/zasady_maj_2019.pdf)
 - [Dane ZIP](Arkusze/maj_2019_pr/Dane-NF-1905.zip)
 
-**Maj 2019 Poziom podstawowy**
-Formuła do 2014
+**Maj 2019 Poziom podstawowy (Formuła do 2014)**
 - [Arkusz cz.1](Arkusze/maj_2019_pp/arkusz_maj_2019_cz1.pdf)
 - [Arkusz cz.2](Arkusze/maj_2019_pp/arkusz_maj_2019_cz2.pdf)
 - [Rozwiązanie](Arkusze/maj_2019_pp/rozwiazanie/)

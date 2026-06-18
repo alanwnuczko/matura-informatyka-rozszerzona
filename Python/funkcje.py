@@ -67,6 +67,7 @@ print(importowane.strip())  # Usuwa białe znaki z obu stron: "Python"
 print(importowane.lstrip()) # Usuwa białe znaki z lewej strony: "Python  "
 print(importowane.rstrip()) # Usuwa białe znaki z prawej strony: "   Python"
 
+
 # str.split() - dzieli string na listę słów
 string = "Byłem w sklepie"
 print(string.split()) # Wynik: ['Byłem', 'w', 'sklepie']
@@ -74,6 +75,25 @@ print(string.split()) # Wynik: ['Byłem', 'w', 'sklepie']
 csv = "10,1101,1011"
 print(csv.split(",")) # Wynik: ['10', '1101', '1011']
 
+
 # .join() łączy elementy listy w słowo
 lista = ["P", "y", "t", "h", "o", "n"]
 print("".join(lista)) # Wynik: Python
+
+
+# .lower(), .upper() - zamieniają znaki w stringu na małe lub wielkie litery
+str = "TeKSt"
+print(str.lower()) # Wynik: tekst
+print(str.upper()) # Wynik: TEKST
+
+
+# .isdigit() - sprawdza czy w stringu są same cyfry
+# .isalpha() - sprawdza czy w stringu są same litery
+
+
+# max(lista) - zwraca największą wartość z listy
+# min(lista) - zwraca najmniejszą wartość z listy
+# len(lista) - zwraca ilość elementów w liście
+# sum(lista) - zwraca sumę elementów w liście
+# sorted(lista) - zwraca posortowaną listę
+# sorted(lista, reverse=True) - zwraca listę posortowaną malejąco
