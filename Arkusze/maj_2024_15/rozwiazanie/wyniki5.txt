@@ -14,3 +14,11 @@ Całkowity przychód: 2422669.40zł
 Odmiana przynosząca największy przychód: Reneta
 
 5_4:
+Wykres w 5.xlsx - Arkusz 5_4
+
+5_5:
+Liczba transakcji z rabatem
+180
+
+Łączna wartość transakcji:
+3089.10 zł
