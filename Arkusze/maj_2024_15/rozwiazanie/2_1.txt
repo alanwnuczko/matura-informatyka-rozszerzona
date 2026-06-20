@@ -1,0 +1,6 @@
+a   wynik fun(a, 2)
+0   FAŁSZ
+1   FAŁSZ
+7   PRAWDA
+16  FAŁSZ
+-4  FAŁSZ

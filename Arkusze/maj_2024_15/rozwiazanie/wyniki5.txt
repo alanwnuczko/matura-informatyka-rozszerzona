@@ -1,0 +1,24 @@
+5_1:
+23/03/2022	789
+29/03/2022	5776
+
+5_2:
+nip_klienta		ilosc_per_klient
+164-61-25-530		12185 kg
+159-34-45-151		12047 kg
+091-99-74-175		11769 kg
+
+5_3:
+Całkowity przychód: 2422669.40zł
+
+Odmiana przynosząca największy przychód: Reneta
+
+5_4:
+Wykres w 5.xlsx - Arkusz 5_4
+
+5_5:
+Liczba transakcji z rabatem
+180
+
+Łączna wartość transakcji:
+3089.10 zł

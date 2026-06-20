@@ -1,0 +1,5 @@
+a   Liczba wywołań fun(a, b + 1)
+2   0
+35  3
+17  3
+77  5
