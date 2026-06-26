@@ -1,0 +1,20 @@
+3_1:
+20 kwadratów
+pierwszy: 4489
+
+3_2:
+2730
+8190
+2310
+4620
+7770
+8610
+4830
+4290
+6930
+6630
+
+3_3:
+Równych: 1, jest to 6174
+Większych różnic: 1052
+Mniejszych różnic: 947

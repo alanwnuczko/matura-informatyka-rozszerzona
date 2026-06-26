@@ -1,0 +1,4 @@
+x       p       F(x, p)     Liczba wywołań funkcji F
+125     2       6           8
+130     3       2           6
+220     4       7           5
