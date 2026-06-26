@@ -1,0 +1,31 @@
+8_1:
+177
+
+8_2:
+Wymiana płynu chłodniczego 29 razy
+
+marka
+bmw
+daewoo
+honda
+kia
+lancia
+mazda
+nissan
+saab
+volkswagen
+
+8_3:
+Najwięcej zapłacił: 897
+
+nr_rejestracyjny	usluga
+SB 3799			wymiana sprzegla
+SB 3799			wymiana amortyzatora tyl
+SB 9213			felga stalowa do 16 cali
+SB 9213			ozonowanie ukladu klimatyzacji i kabiny
+SB 5822			wymiana oleju silnikowego z filtrem
+SB 5822			wymiana paska rozrzadu
+
+8_4:
+Listopad: 150530
+Grudzień: 105860
