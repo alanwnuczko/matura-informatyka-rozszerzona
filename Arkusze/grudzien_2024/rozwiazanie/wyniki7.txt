@@ -1,0 +1,37 @@
+7_1:
+Max_Zrodla_Wiatrowe:			Dzień:	02/04/2024
+			
+Max_Zrodla_Fotowoltaiczne:		Dzień:	30/04/2024
+
+7_2:
+Godzina_w_dniu_kwietnia	Zaokrąglone
+1						0
+2						0
+3						0
+4						0
+5						0.03
+6						64.67
+7						491.3
+8						1723.63
+9						3492.93
+10						5164.23
+11						6246.15
+12						6623.02
+13						6658.38
+14						6489.51
+15						6099.17
+16						5410.74
+17						4338.69
+18						2796.16
+19						1240.49
+20						311.03
+21						15.68
+22						0
+23						0
+24						0
+
+7_3:
+Datą i godziną początku przedziału jest 2024-04-02 godz. 1:00, a datą I godziną końca przedziału jest 2024-04-02 godz. 16:00.
+
+7_4:
+179736 MWh

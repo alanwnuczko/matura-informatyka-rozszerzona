@@ -1,0 +1,3 @@
+SELECT Wlasciciele.imie, Wlasciciele.nazwisko FROM Wlasciciele
+INNER JOIN Samochody ON Wlasciciele.id_wlasciciela = Samochody.id_wlasciciela
+WHERE Samochody.nr_rejestracyjny LIKE "SH*" AND Samochody.rok_produkcji = 2020 ORDER BY Wlasciciele.nazwisko;
