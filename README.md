@@ -22,7 +22,8 @@ matura-informatyka-rozszerzona/
 ---
 ## Arkusze:
 > Kwerendy SQL do zadań znajdują się w plikach `.accdb`<br>Formuły do excela znajdują się w plikach `.xlsx`
-**Maj 2024 Poziom rozszerzony (Formuła 2015)**
+
+**Grudzień 2024 Poziom rozszerzony (Formuła 2023)**
 - [Arkusz](Arkusze/grudzien_2024/arkusz_grudzien_2024.pdf)
 - [Rozwiązanie](Arkusze/grudzien_2024/rozwiazanie/)
 - [Zasady oceniania](Arkusze/grudzien_2024/zasady_grudzien_2024.pdf)
