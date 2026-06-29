@@ -53,11 +53,11 @@ print(math.ceil(3.1)) # 4
 # math.floor() - zaokrąglenie w dół
 print(math.floor(5.7)) # 5
 
-# math.gcd() - Greatest Common Divisor - Największy wspólny dzielnik NWD
+# math.gcd() - Greatest Common Divisor - Największy wspólny dzielnik (NWD)
 print(math.gcd(5, 25)) # 5
 print(math.gcd(45, 81)) # 9
 
-# math.lcm() - Least Common Multiple - Najmniejsza wspólna wielokrotność NWW
+# math.lcm() - Least Common Multiple - Najmniejsza wspólna wielokrotność (NWW)
 print(math.lcm(3, 8)) # 24
 
 

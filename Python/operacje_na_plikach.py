@@ -25,3 +25,5 @@ with open("1.txt", "w") as f:
     f.write("Zamienia zawartość pliku na ten tekst")
 
 f = open("nowy_plik.txt", "x") # "x" tworzy nowy plik, jeśli już istnieje to zwróci błąd
+
+# .readlines() - wczytuje wszystkie linie pliku i zwraca je jako listę
