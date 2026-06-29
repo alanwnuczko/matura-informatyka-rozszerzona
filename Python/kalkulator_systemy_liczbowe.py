@@ -1,5 +1,6 @@
 print("Zamiana z innego systemu liczbowego na dziesiętny:")
-liczba = (input("Podaj liczbę: "))
-podstawa = int(input("Podaj podstawę: "))
-wynik = int(liczba, podstawa)
-print(wynik)
+while True:
+    liczba = (input("Podaj liczbę: "))
+    podstawa = int(input("Podaj podstawę: "))
+    wynik = int(liczba, podstawa)
+    print(f"Wynik: {wynik}")
