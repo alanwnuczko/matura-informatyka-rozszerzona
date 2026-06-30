@@ -24,29 +24,29 @@ matura-informatyka-rozszerzona/
 > Kwerendy SQL do zadań znajdują się w plikach `.accdb`<br>Formuły do excela znajdują się w plikach `.xlsx`
 
 **Grudzień 2024 Poziom rozszerzony (Formuła 2023)**
-- [Arkusz](Arkusze/grudzien_2024/arkusz_grudzien_2024.pdf)
-- [Rozwiązanie](Arkusze/grudzien_2024/rozwiazanie/)
-- [Zasady oceniania](Arkusze/grudzien_2024/zasady_grudzien_2024.pdf)
-- [Dane ZIP](Arkusze/grudzien_2024/Dane.zip)
+- [Arkusz](Arkusze/2024-12_PR_F2023/Arkusz.pdf)
+- [Rozwiązanie](Arkusze/2024-12_PR_F2023/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2024-12_PR_F2023/Zasady.pdf)
+- [Dane ZIP](Arkusze/2024-12_PR_F2023/Dane.zip)
 
 **Maj 2024 Poziom rozszerzony (Formuła 2015)**
-- [Arkusz cz.1](Arkusze/maj_2024_15/arkusz_maj_2024_cz1.pdf)
-- [Arkusz cz.2](Arkusze/maj_2024_15/arkusz_maj_2024_cz2.pdf)
-- [Rozwiązanie](Arkusze/maj_2024_15/rozwiazanie/)
-- [Zasady oceniania](Arkusze/maj_2024_15/zasady_maj_2024.pdf)
-- [Dane ZIP](Arkusze/maj_2024_15/Dane-SF-2405.zip)
+- [Arkusz cz.1](Arkusze/2024-05_PR_F2015/Arkusz_cz1.pdf)
+- [Arkusz cz.2](Arkusze/2024-05_PR_F2015/Arkusz_cz2.pdf)
+- [Rozwiązanie](Arkusze/2024-05_PR_F2015/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2024-05_PR_F2015/Zasady.pdf)
+- [Dane ZIP](Arkusze/2024-05_PR_F2015/Dane.zip)
 
-**Maj 2019 Poziom rozszerzony (Formuła od 2015)**
-- [Arkusz cz.1](Arkusze/maj_2019_pr/arkusz_maj_2019_cz1.pdf)
-- [Arkusz cz.2](Arkusze/maj_2019_pr/arkusz_maj_2019_cz2.pdf)
-- [Rozwiązanie](Arkusze/maj_2019_pr/rozwiazanie/)
-- [Zasady oceniania](Arkusze/maj_2019_pr/zasady_maj_2019.pdf)
-- [Dane ZIP](Arkusze/maj_2019_pr/Dane-NF-1905.zip)
+**Maj 2019 Poziom rozszerzony (Formuła 2015)**
+- [Arkusz cz.1](Arkusze/2019-05_PR_F2015/Arkusz_cz1.pdf)
+- [Arkusz cz.2](Arkusze/2019-05_PR_F2015/Arkusz_cz2.pdf)
+- [Rozwiązanie](Arkusze/2019-05_PR_F2015/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2019-05_PR_F2015/Zasady.pdf)
+- [Dane ZIP](Arkusze/2019-05_PR_F2015/Dane.zip)
 
-**Maj 2019 Poziom podstawowy (Formuła do 2014)**
-- [Arkusz cz.1](Arkusze/maj_2019_pp/arkusz_maj_2019_cz1.pdf)
-- [Arkusz cz.2](Arkusze/maj_2019_pp/arkusz_maj_2019_cz2.pdf)
-- [Rozwiązanie](Arkusze/maj_2019_pp/rozwiazanie/)
-- [Zasady oceniania](Arkusze/maj_2019_pp/zasady_maj_2019.pdf)
-- [Dane ZIP](Arkusze/maj_2019_pp/Dane-NF-1905-pp.zip)
+**Maj 2019 Poziom podstawowy (Formuła 2007)**
+- [Arkusz cz.1](Arkusze/2019-05_PP_F2007/Arkusz_cz1.pdf)
+- [Arkusz cz.2](Arkusze/2019-05_PP_F2007/Arkusz_cz2.pdf)
+- [Rozwiązanie](Arkusze/2019-05_PP_F2007/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2019-05_PP_F2007/Zasady.pdf)
+- [Dane ZIP](Arkusze/2019-05_PP_F2007/Dane.zip)
 ---
