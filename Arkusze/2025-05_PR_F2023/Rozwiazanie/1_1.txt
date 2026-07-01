@@ -1,0 +1,5 @@
+n                   Wynik działania funkcji przestaw    Liczba wywołań funkcji przestaw
+316498              134689                              3
+43657688            34566788                            4
+154005710           145007501                           5
+998877665544321     989786756453412                     8
