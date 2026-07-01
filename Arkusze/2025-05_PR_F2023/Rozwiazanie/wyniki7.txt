@@ -1,0 +1,27 @@
+7_1:
+Mare Boreum
+
+7_2:
+Spirit 14 29/08/2066 25/07/2076
+
+7_3:
+Aeolis
+Amazonis
+Arabia
+Elysium
+Eridania
+Mare Tyrrhenum
+Sinus Sabaeus
+Syrtis Major
+
+7_4:
+Mariner 14
+Mariner 15
+Mariner 20
+Phoenix 13
+Phoenix 3
+Rosetta 1
+Rosetta 8
+Spirit 12
+Spirit 7
+Viking 17
