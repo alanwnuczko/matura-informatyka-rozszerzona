@@ -1,0 +1,45 @@
+5_1:
+film
+fitness
+fotografia
+fizyka
+
+5_2:
+105
+
+5_3:
+Anna	Karenina
+Bianca	Gelati
+Bogdan	Pamuk
+Emmanuella	Gerone
+Ewa	Aniol
+Ewa	Florczak
+John	Brax
+Justyna	Moroz
+Kacper	Makowski
+Maciej	Niedorzeczny
+Magda	Gruzin
+Marta	Lewkowicz
+Michal	Cabeanu
+Michal	Persen
+Miroslaw	Czort
+Monica	Bartolomeo
+Monica	Fantutti
+Nalia	Orzel
+Olaf	Gliwicki
+Paul	Neuman
+Pawel	Jadczak
+Robert	Workucki
+Tomasz	Gorny
+Tymon	Neuf
+Wioletta	Graczyk
+Zuzanna	Mincerz
+Zwonimir	Kusturica
+
+5_4:
+Ewa	Aniol
+Monica	Fantutti
+Lena	Szaposznikowa
+
+5_5:
+film	38
