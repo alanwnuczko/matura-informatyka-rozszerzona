@@ -1,0 +1,20 @@
+6_1:
+A	28
+B	30
+C	31
+D	33
+E	37
+F	32
+G	31
+H	28
+
+6_2:
+77  9
+
+6_3:
+Min	Max	ocena	slownie	        liczba_studentow	odsetek
+90	100	6	    celujący	    33	                13%
+80	89	5	    bardzo dobry	26	                10%
+51	79	4	    dobry	        71	                28%
+41	50	3	    dostateczny	    28	                11%
+0	40	2	    niedostateczny	92	                37%
