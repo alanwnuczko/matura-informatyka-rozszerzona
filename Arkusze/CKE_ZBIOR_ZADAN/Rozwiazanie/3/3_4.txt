@@ -1,0 +1,1 @@
+lmnozen() n = 2 ⋅ log3n

@@ -1,0 +1,4 @@
+liczba w systemie silniowym     liczba w systemie dziesiętnym
+310                             20
+2011                            51
+54211                           711
