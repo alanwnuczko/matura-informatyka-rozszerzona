@@ -1,0 +1,8 @@
+Kolejne wykonanie (*)   Wartość zmiennej y
+1                       0.6
+2                       0.2
+3                       0.4
+4                       0.8
+5                       0.6
+
+Liczba wypisana przez algorytm: 0,10011
