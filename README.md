@@ -23,6 +23,9 @@ matura-informatyka-rozszerzona/
 ## Arkusze:
 > Kwerendy SQL do zadań znajdują się w plikach `.accdb` i `.sql`<br>Formuły do excela znajdują się w plikach `.xlsx`
 
+**Zbiór zadań CKE - Poziom rozszerzony**
+- [Spis zadań](Arkusze/CKE_ZBIOR_ZADAN/)
+
 **Maj 2025 Poziom rozszerzony (Formuła 2023)**
 - [Arkusz](Arkusze/2025-05_PR_F2023/Arkusz.pdf)
 - [Rozwiązanie](Arkusze/2025-05_PR_F2023/Rozwiazanie/)

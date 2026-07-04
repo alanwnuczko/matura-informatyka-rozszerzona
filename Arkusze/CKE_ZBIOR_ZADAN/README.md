@@ -1,7 +1,7 @@
 # Zbiór zadań CKE - Poziom rozszerzony
 
 ## 1. Analiza algorytmów
-**Zadanie 1 - [Ciągi rekurencyjne](Rozwiazanie/1/)**
+**Zadanie 1 - [Ciągi rekurencyjne](Rozwiazanie/1/)**<br>
 **Zadanie 2 - [Ułamki dwójkowe](Rozwiazanie/2/)**
 
 ## 2. Teoria
