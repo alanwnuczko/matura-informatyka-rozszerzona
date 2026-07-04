@@ -1,5 +1,7 @@
 # Zbiór zadań CKE - Poziom rozszerzony
 
+[![Plik PDF](https://img.shields.io/badge/Zbiór_Zadań-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Zbior_zadan.pdf)
+
 ## 1. Analiza algorytmów
 **Zadanie 1 - [Ciągi rekurencyjne](Rozwiazanie/1/)**<br>
 **Zadanie 2 - [Ułamki dwójkowe](Rozwiazanie/2/)**
