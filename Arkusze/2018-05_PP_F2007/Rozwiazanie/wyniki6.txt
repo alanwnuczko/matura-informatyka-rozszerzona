@@ -1,0 +1,26 @@
+6_1:
+Miesiąc	Liczba_kilogramow
+Jan	    5343
+Feb	    4966
+Mar	    4895
+Apr	    3446
+May	    3222
+Jun	    2984
+Jul	    3262
+Aug	    4128
+Sep	    4826
+Oct	    4558
+Nov	    5502
+Dec	    3771
+
+Wykres: 6_1.png
+
+6_2:
+Kamila	Wolan	201kg
+
+6_3:
+51
+
+6_4:
+Pierwszy raz: 31/01/2017
+Ile razy w roku: 18
