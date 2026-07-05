@@ -5,8 +5,8 @@
 ## 1. Analiza algorytmów
 **Zadanie 1 - [Ciągi rekurencyjne](Rozwiazanie/1/)**<br>
 **Zadanie 2 - [Ułamki dwójkowe](Rozwiazanie/2/)**<br>
-**Zadanie 3 - [Ułamki dwójkowe](Rozwiazanie/3/)**<br>
-**Zadanie 4 - [Ułamki dwójkowe](Rozwiazanie/4/)**<br>
+**Zadanie 3 - [Mnożenie](Rozwiazanie/3/)**<br>
+**Zadanie 4 - [Silniowy system liczbowy](Rozwiazanie/4/)**<br>
 
 ## 2. Teoria
 
