@@ -1,0 +1,37 @@
+4_1:
+Druzyna	    Liczba_harcerzy
+Bukowina	26
+Grot	    12
+Jaworzyna	49
+Plomien	    16
+Watra	    14
+Wierchy	    42
+Zawisza	    11
+Zywioly	    17
+
+4_2:
+Najwięcej: tropiciel
+Najmniej: ratownik
+
+4_3:
+Mateusz Buczek:
+goral
+ratownik
+spadochroniarz
+strzelec
+tropiciel
+zeglarz
+
+Kamil Banasiewicz:
+goral
+ratownik
+spadochroniarz
+strzelec
+tropiciel
+zeglarz
+
+4_4:
+Zywioly
+
+4_5:
+Jozef	Piotrkowski	zeglarz	15

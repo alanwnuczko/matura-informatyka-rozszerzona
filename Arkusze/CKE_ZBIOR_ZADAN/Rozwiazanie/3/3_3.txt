@@ -1,0 +1,7 @@
+x n Liczba operacji mnożenia
+2 2 1
+2 3 2
+3 4 3
+4 7 4
+4 8 5
+4 9 4

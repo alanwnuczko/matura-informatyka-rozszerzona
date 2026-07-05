@@ -22,7 +22,7 @@ lista_bez_mango = owoce.pop() # Usuwa ostatni element listy
 print(lista_bez_mango) # Wynik: Mango
 print(owoce) # Wynik: ['Jabłko', 'Pomarańcza', 'Kiwi']
 
-owoce.remove("Kiwi") # Usuwa "Kiwi z listy"
+owoce.remove("Kiwi") # Usuwa "Kiwi" z listy
 print(owoce) # Wynik: ['Jabłko', 'Pomarańcza']
 
 oceny = [1, 2, 3, 4, 5, 6]
