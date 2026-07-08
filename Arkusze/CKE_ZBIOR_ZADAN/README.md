@@ -12,6 +12,8 @@
 
 ## 3. Programowanie
 **Zadanie 58 - [Systemy liczbowe](Rozwiazanie/58/)**<br>
+**Zadanie 60 - [Dzielniki](Rozwiazanie/60/)**<br>
+**Zadanie 62 - [Liczby ósemkowe](Rozwiazanie/62/)**<br>
 
 ## 4. Excel
 
