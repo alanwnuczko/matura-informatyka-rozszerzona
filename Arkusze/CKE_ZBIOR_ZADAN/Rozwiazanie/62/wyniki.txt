@@ -1,0 +1,14 @@
+62_1:
+Największa liczba: 777044
+Najmniejsza liczba: 1002
+
+62_2:
+639 6
+
+62_3:
+Równe: 160
+Liczby1 większe od liczby2: 357
+
+62_4:
+Szóstki w dziesiętnych: 411
+Szóstki w ósemkowych: 625
