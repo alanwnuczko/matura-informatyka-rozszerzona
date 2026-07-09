@@ -17,7 +17,7 @@ matura-informatyka-rozszerzona/
 [![MS_Access](https://img.shields.io/badge/MS_Access-folder-firebrick)](MS_Access/)
 [![MS_Excel](https://img.shields.io/badge/MS_Excel-folder-forestgreen)](MS_Excel/)
 [![Python](https://img.shields.io/badge/Python-folder-steelblue)](Python/)
-[![SQL](https://img.shields.io/badge/SQL-folder-cadetblue)](SQL/)
+[![SQL](https://img.shields.io/badge/SQL-folder-cadetblue)](MS_Access/SQL)
 
 ---
 ## Arkusze:
