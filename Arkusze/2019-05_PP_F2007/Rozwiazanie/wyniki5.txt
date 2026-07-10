@@ -22,15 +22,6 @@ Rafal Janus								Excel w praktyce, 8/14
 informatyka
 
 5_3:
-SELECT
-    FORMAT(AVG(Publikacje.Cena), "Currency"),
-    Dziedziny.Dziedzina
-FROM
-    Publikacje
-    INNER JOIN Dziedziny ON Publikacje.ID_dziedziny = Dziedziny.ID_dziedziny
-GROUP BY
-    Dziedziny.Dziedzina;
-
 8.98 zł	ekonomia
 31.99 zł	informatyka
 22.81 zł	literatura faktu
@@ -40,20 +31,6 @@ GROUP BY
 16.19 zł	nauki spoleczne
 
 5_4:
-SELECT
-    TOP 1 Dziedziny.Dziedzina,
-    COUNT(Zakupy.ID_publikacji) AS Liczba_zakupów
-FROM
-    (
-        Dziedziny
-        INNER JOIN Publikacje ON Dziedziny.ID_dziedziny = Publikacje.ID_dziedziny
-    )
-    INNER JOIN Zakupy ON Publikacje.ID_publikacji = Zakupy.ID_publikacji
-GROUP BY
-    Dziedziny.Dziedzina
-ORDER BY
-    COUNT(Zakupy.ID_publikacji) DESC;
-
 Literatura piękna - 587
 
 5_5:
