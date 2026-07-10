@@ -1,0 +1,34 @@
+7_1:
+Jan	1.1
+Feb	4.1
+Mar	4.1
+Apr	7.4
+May	15.9
+Jun	20.5
+Jul	20.4
+Aug	21.1
+Sep	13.7
+Oct	12.5
+Nov	5.2
+Dec	1.6
+
+7_2:
+Miesiąc	    Najdłuższy ciąg
+Styczeń	    11
+Luty	    7
+Marzec	    20
+Kwiecień	8
+Maj	        20
+Czerwiec	11
+Lipiec	    10
+Sierpień	8
+Wrzesień	14
+Październik	15
+Listopad	10
+Grudzień	10
+
+7_3:
+14-08-2023 (167. dzień)
+
+7_4:
+94
