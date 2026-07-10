@@ -1,0 +1,2 @@
+Adres IP w wersji 4 ma długość 32 bity.
+Adres IP w wersji 6 ma długość 128 bitów.
