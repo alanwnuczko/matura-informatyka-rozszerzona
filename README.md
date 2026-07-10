@@ -26,6 +26,12 @@ matura-informatyka-rozszerzona/
 **Zbiór zadań CKE - Poziom rozszerzony**
 - [Spis zadań](Arkusze/CKE_ZBIOR_ZADAN/)
 
+**Maj 2026 Poziom rozszerzony (Formuła 2023)**
+- [Arkusz](Arkusze/2026-05_PR_F2023/Arkusz.pdf)
+- [Rozwiązanie](Arkusze/2026-05_PR_F2023/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2026-05_PR_F2023/Zasady.pdf)
+- [Dane ZIP](Arkusze/2026-05_PR_F2023/Dane.zip)
+
 **Maj 2025 Poziom rozszerzony (Formuła 2023)**
 - [Arkusz](Arkusze/2025-05_PR_F2023/Arkusz.pdf)
 - [Rozwiązanie](Arkusze/2025-05_PR_F2023/Rozwiazanie/)
