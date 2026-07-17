@@ -29,9 +29,9 @@ Tworzy datę z podanych wartości roku, miesiąca i dnia.
 Zwraca numer dnia tygodnia dla podanej daty.
 
 **Parametr `[typ]`:**
-- `1` lub pominięty – 1 = niedziela, ..., 7 = sobota
-- `2` – 1 = poniedziałek, ..., 7 = niedziela
-- `3` – 0 = poniedziałek, ..., 6 = niedziela
+- `1` lub pominięty - 1 = niedziela, ..., 7 = sobota
+- `2` - 1 = poniedziałek, ..., 7 = niedziela
+- `3` - 0 = poniedziałek, ..., 6 = niedziela
 
 **Przykład:**
 ```excel
@@ -40,8 +40,8 @@ Zwraca numer dnia tygodnia dla podanej daty.
 
 **Wynik:**
 Liczba od 1 do 7, gdzie:
-- 1 – poniedziałek
-- 7 – niedziela
+- 1 - poniedziałek
+- 7 - niedziela
 
 ## ROK
 

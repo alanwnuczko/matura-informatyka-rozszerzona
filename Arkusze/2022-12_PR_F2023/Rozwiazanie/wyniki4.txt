@@ -1,0 +1,23 @@
+4_1:
+a) 12.08.2022 - 1.09.2022 (21 dni)
+b) 18
+
+4_2:
+Jan	2452
+Feb	1381
+Mar	3755
+Apr	4213
+May	3935
+Jun	5566
+Jul	6516
+Aug	2698
+Sep	5680
+Oct	12225
+Nov	14761
+Dec	840
+
+Wykres kolumnowy: 4_2.png
+
+4_3:
+a)	93
+b)	19152
