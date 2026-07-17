@@ -1,0 +1,5 @@
+N
+PRAWDA
+i * i
+FAŁSZ
+j * i
