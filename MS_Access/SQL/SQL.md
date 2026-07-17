@@ -85,8 +85,8 @@ ORDER BY kolumna ASC;
 
 **Opis:**
 Sortuje wyniki.
-- `ASC` – sortowanie rosnące (od najmniejszej wartości do największej, domyślne)
-- `DESC` – sortowanie malejące (od największej wartości do najmniejszej)
+- `ASC` - sortowanie rosnące (od najmniejszej wartości do największej, domyślne)
+- `DESC` - sortowanie malejące (od największej wartości do najmniejszej)
 
 **Przykład:**
 ```sql

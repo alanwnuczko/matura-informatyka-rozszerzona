@@ -29,18 +29,18 @@ Działa dla całego zakresu Unicode (0 do 1 114 111)
 
 ## Przykłady
 
-- [Zadanie 3.1 (Maj 2026)](Arkusze/2026-05_PR_F2023/Rozwiazanie/3_2.py)
-- [Szyfr Cezara](Algorytmy/szyfr_cezara.py)
+- [Zadanie 3.1 (Maj 2026)](../Arkusze/2026-05_PR_F2023/Rozwiazanie/3_1.py)
+- [Szyfr Cezara](../Algorytmy/szyfr_cezara.py)
 
 ## Zakresy ASCII
 
 | Zakres | Znaki |
 |---|---|
-| 0–31 | znaki sterujące (np. 10 = nowa linia, 9 = tabulator) |
+| 0-31 | znaki sterujące (np. 10 = nowa linia, 9 = tabulator) |
 | 32 | spacja |
-| 48–57 | cyfry '0'-'9' |
-| 65–90 | wielkie litery 'A'-'Z' |
-| 97–122 | małe litery 'a'-'z' |
+| 48-57 | cyfry '0'-'9' |
+| 65-90 | wielkie litery 'A'-'Z' |
+| 97-122 | małe litery 'a'-'z' |
 
 ## Stałe ASCII z modułu `string`
 ```python
