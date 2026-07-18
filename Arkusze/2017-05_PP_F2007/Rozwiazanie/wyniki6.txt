@@ -1,0 +1,23 @@
+6_1:
+Dziewcząt: 976
+Chłopców: 1124
+
+6_2:
+Lucjan	Jamski	75
+Katarzyna	Maciak	68
+Marta	Korbus	67
+Szymon	Bujnarowski	65
+Beniamin	Laskowski	65
+Bartlomiej	Kogut	64
+Antoni	Pilski	63
+Mateusz	Krefta	61
+Dorota	Dlugosz	61
+Piotr	Kopacz	61
+
+6_3:
+697
+
+6_4:
+1	83
+2	80.11
+3	292.44

@@ -1,0 +1,8 @@
+od j=1 do d
+s[j] ← szyfr[j]
+i ← 1
+dopóki i <= d - k - n
+ i ← i+n
+dopóki i >= 1
+ s[i] ↔ s[i+k]
+ i = i - n
