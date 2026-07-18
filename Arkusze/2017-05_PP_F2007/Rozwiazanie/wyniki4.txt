@@ -1,0 +1,10 @@
+4_1:
+139
+
+4_2:
+1404
+
+4_3:
+Liczba trójek których suma cyfr to 35: 4
+Największa suma cyfr: 88
+Liczba wierszy z największą sumą: 2

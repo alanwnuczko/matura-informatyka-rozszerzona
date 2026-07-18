@@ -84,3 +84,10 @@ matura-informatyka-rozszerzona/
 - [Rozwiązanie](Arkusze/2018-05_PP_F2007/Rozwiazanie/)
 - [Zasady oceniania](Arkusze/2018-05_PP_F2007/Zasady.pdf)
 - [Dane ZIP](Arkusze/2018-05_PP_F2007/Dane.zip)
+
+**Maj 2017 Poziom podstawowy (Formuła 2007)**
+- [Arkusz cz.1](Arkusze/2017-05_PP_F2007/Arkusz_cz1.pdf)
+- [Arkusz cz.2](Arkusze/2017-05_PP_F2007/Arkusz_cz2.pdf)
+- [Rozwiązanie](Arkusze/2017-05_PP_F2007/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2017-05_PP_F2007/Zasady.pdf)
+- [Dane ZIP](Arkusze/2017-05_PP_F2007/Dane.zip)
