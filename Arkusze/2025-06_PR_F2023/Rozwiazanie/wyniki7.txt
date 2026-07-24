@@ -1,0 +1,30 @@
+7_1:
+Marta	Jasczyk	4846
+
+7_2:
+imie	    nazwisko	id_klienta
+Anna	    Dymek	    K358
+Anna	    Mason	    K151
+Anna	    Wiatr	    K052
+Barbara	    Wroblewska	K275
+Grzegorz	Sikora	    K045
+Hanna	    Mazur	    K227
+Krzysztof	Orlik	    K224
+Krzysztof	Szostak	    K164
+Marcin	    Ozga	    K221
+Marek	    Sitko	    K374
+Mateusz	    Szymczyk	K277
+Natalia	    Chwiszczuk	K137
+Natalia	    Kejza	    K282
+
+7_3:
+1848.6
+
+7_4:
+F02	Natalia
+F03	Krzysztof
+F04	Grzegorz
+F07	Kamila
+F08	Aneta
+F10	Bartosz
+F18	Kalina
