@@ -57,6 +57,12 @@ matura-informatyka-rozszerzona/
 - [Zasady oceniania](Arkusze/2024-05_PR_F2015/Zasady.pdf)
 - [Dane ZIP](Arkusze/2024-05_PR_F2015/Dane.zip)
 
+**Maj 2023 Poziom rozszerzony (Formuła 2023)**
+- [Arkusz](Arkusze/2023-05_PR_F2023/Arkusz.pdf)
+- [Rozwiązanie](Arkusze/2023-05_PR_F2023/Rozwiazanie/)
+- [Zasady oceniania](Arkusze/2023-05_PR_F2023/Zasady.pdf)
+- [Dane ZIP](Arkusze/2023-05_PR_F2023/Dane.zip)
+
 **Grudzień 2022 Poziom rozszerzony (Formuła 2023)**
 - [Arkusz](Arkusze/2022-12_PR_F2023/Arkusz.pdf)
 - [Rozwiązanie](Arkusze/2022-12_PR_F2023/Rozwiazanie/)
