@@ -1,0 +1,20 @@
+6_1:
+Miesiąc	    Maliny	Truskawki	Porzeczki
+May	        9238	9287	3309
+Czerwiec	9485	8916	5081
+Lipiec	    11592	11339	10567
+Sierpień	11045	11386	11078
+Wrzesień	6532	7476	6355
+
+6_2:
+19
+
+6_3:
+Ile malinowo-truskawkowych:	    72
+Ile malinowo-porzeczkowych:	    41
+Ile truskawkowo-porzeczkowych:	40
+
+6_4:
+Malinowo-Truskawkowa:	    29732
+Malinowo-Porzeczkowa:	    18008
+Truskawkowo-Porzeczkowa:	18382
