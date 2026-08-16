@@ -1,0 +1,28 @@
+7_1:
+6399
+16/08/2023
+
+7_2:
+29
+
+7_3:
+Miesiąc	    Suma z Liczba_kg
+Styczeń	    91769
+Luty	    86776
+Marzec	    99704
+Kwiecień	78678
+Maj	        98806
+Czerwiec	86931
+Lipiec	    88897
+Sierpień	105548
+Wrzesień	89532
+Październik	83961
+Listopad	96910
+Grudzień	80636
+
+7_4:
+Największy stan magazynu:	11224 kg
+Data:	                    25/08/2023
+
+7_5:
+3126
