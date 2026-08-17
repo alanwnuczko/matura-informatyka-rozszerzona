@@ -27,5 +27,5 @@ matura-informatyka-rozszerzona/
 
 Wyszukiwarka arkuszy oraz testy z pytań teoretycznych.
 
-[![InfMatura.dev](readme/screenshot-1.jpg)](https://infmatura.dev)
-[![InfMatura.dev/pytania-teoretyczne](readme/screenshot-2.jpg)](https://infmatura.dev/pytania-teoretyczne/)
+[![InfMatura.dev](.github/images/screenshot-1.jpg)](https://infmatura.dev)
+[![InfMatura.dev/pytania-teoretyczne](.github/images/screenshot-2.jpg)](https://infmatura.dev/pytania-teoretyczne/)
