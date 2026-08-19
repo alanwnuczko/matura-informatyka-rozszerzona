@@ -4,12 +4,14 @@
 
 ```
 matura-informatyka-rozszerzona/
-    ├── Algorytmy/
-    ├── Arkusze/
-    ├── MS_Access/
-    ├── MS_Excel/
-    ├── Python/
-    └── SQL/
+├── .github/
+│   └── images/ # Zrzuty ekranu do README
+├── Algorytmy/
+├── Arkusze/    # Rozwiązania arkuszy
+├── MS_Access/
+├── MS_Excel/
+├── Python/
+└── SQL/
 ```
 
 [![Algorytmy](https://img.shields.io/badge/Algorytmy-folder-blanchedalmond)](Algorytmy/)
