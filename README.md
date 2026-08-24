@@ -9,9 +9,9 @@ matura-informatyka-rozszerzona/
 ├── Algorytmy/
 ├── Arkusze/    # Rozwiązania arkuszy
 ├── MS_Access/
+│   └── SQL/
 ├── MS_Excel/
-├── Python/
-└── SQL/
+└── Python/
 ```
 
 [![Algorytmy](https://img.shields.io/badge/Algorytmy-folder-blanchedalmond)](Algorytmy/)

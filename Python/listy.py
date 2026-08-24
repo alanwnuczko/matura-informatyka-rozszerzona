@@ -1,4 +1,4 @@
-# Elementy listy są trymane wewnątrz nawiasów kwadratowych
+# Elementy listy są trzymane wewnątrz nawiasów kwadratowych
 # Elementy listy są indeksowane - pierwszy element listy ma indeks 0
 
 owoce = ["Jabłko", "Pomarańcza", "Winogrona"]
