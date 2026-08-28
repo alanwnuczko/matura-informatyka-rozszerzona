@@ -1,0 +1,16 @@
+8_1:
+Rafael	Blake	3700
+
+8_2:
+Listopad 1766
+
+8_3:
+NrRejestracyjny	Imie	    Nazwisko
+NIP6570	        Honorato	Roth
+YYS1077	        Kevin	    Wright
+CJX1859	        Quynn	    Travis
+BHW4028	        Sandra	    Wheeler
+QFR8936	        Ivy	        Bowen
+KNM7950	        Jasper	    Santos
+SRU9727	        Helen	    White
+XHK9060	        Quentin	    Tyler
