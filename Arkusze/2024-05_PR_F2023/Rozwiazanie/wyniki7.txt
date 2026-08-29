@@ -1,0 +1,27 @@
+7_1:
+164-61-25-530	12185
+159-34-45-151	12047
+091-99-74-175	11769
+
+7_2:
+2422669.4
+Reneta
+
+7_3:
+Miesiące (Data)	Odmiana	    Suma z Liczba Kg
+Jan	            Gala	    14017
+Feb	            Gala	    14969
+Mar	            Jonagored	15079
+Apr	            Gala	    19404
+May	            Gala	    17382
+Jun	            Reneta	    18661
+Jul	            Melba	    21216
+Aug	            Reneta	    19054
+Sep	            Reneta	    20881
+Oct	            Reneta	    17065
+Nov	            Reneta	    19755
+Dec	            Jonagored	13425
+
+7_4:
+Liczba transakcji z rabatem:	    180
+Łączna wartość udzielonych rabatów:	3089.10 zł
