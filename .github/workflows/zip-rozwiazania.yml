@@ -1,0 +1,43 @@
+name: Generuj Rozwiazanie.zip
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Arkusze/*/Rozwiazanie/**"
+  workflow_dispatch:
+
+jobs:
+  generuj-zipy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Generuj ZIP dla każdego rozwiązania
+        run: |
+          shopt -s nullglob
+          wygenerowano=0
+          for katalog in Arkusze/*/Rozwiazanie; do
+            [ -d "$katalog" ] || continue
+            katalog_arkusza=$(dirname "$katalog")
+            echo "Pakuję: $katalog → $katalog_arkusza/Rozwiazanie.zip"
+            (cd "$katalog_arkusza" && zip -r Rozwiazanie.zip Rozwiazanie/ -x "*.DS_Store" "__MACOSX/*")
+            wygenerowano=$((wygenerowano + 1))
+          done
+          echo "Wygenerowano $wygenerowano plik(ów) ZIP."
+
+      - name: Zapisz zmiany w repozytorium
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Arkusze/*/Rozwiazanie.zip
+          if git diff --staged --quiet; then
+            echo "Brak zmian — nic do zapisania."
+          else
+            git commit -m "chore: aktualizacja Rozwiazanie.zip [skip ci]"
+            git push
+          fi
