@@ -1,0 +1,21 @@
+5_1:
+Region	Liczba mieszkańcow
+A	    33929579
+B	    41736619
+C	    57649017
+D	    36530387
+
+
+5_2:
+Liczba województw w całym kraju:	19
+
+A	3
+B	4
+C	8
+D	4
+
+
+5_3:
+Ludnosc_2025:	125930205
+Najwięcej mieszkańcow 2025: w12C
+Liczba_przeludnień_2025:	18

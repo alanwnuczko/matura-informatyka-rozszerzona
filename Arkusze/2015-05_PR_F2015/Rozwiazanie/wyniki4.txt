@@ -1,0 +1,10 @@
+4_1:
+422
+
+4_2:
+Podzielne przez 2: 500
+Podzielne przez 8: 123
+
+4_3:
+Numer wiersza najmniejszej liczby: 859
+Numer wiersza największej liczby: 925
