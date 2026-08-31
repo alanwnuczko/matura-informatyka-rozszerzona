@@ -1,0 +1,23 @@
+6_1:
+Australia 2010
+
+6_2:
+Indie
+
+6_3:
+Nazwisko	Imie	Rok	    SumaOfPunkty
+Schumacher	Michael	2000	108
+Alonso	Fernando	2006	134
+Vettel	Sebastian	2012	281
+
+6_4:
+Australia	    2
+Brazylia	    2
+Finlandia	    1
+Francja	        2
+Hiszpania	    1
+Japonia	        1
+Meksyk	        1
+Niemcy	        4
+Wenezuela	    1
+Wielka Brytania	3
