@@ -18,3 +18,4 @@
 ## 4. Excel
 
 ## 5. Bazy danych (Access)
+**Zadanie 58 - [Dziennik ocen](Rozwiazanie/98/)**<br>
