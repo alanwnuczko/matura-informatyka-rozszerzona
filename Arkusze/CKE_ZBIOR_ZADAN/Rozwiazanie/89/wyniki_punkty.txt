@@ -1,0 +1,41 @@
+89_1:
+
+Bialaszewski	Wiktor
+Cicherski	    Szymon
+Florek	        Sandra
+Kaminski	    Mikolaj
+Krol	        Malgorzata
+
+
+89_2:
+
+Najczęściej występująca ilość punktów:	55.6
+
+Sochacka	Inka
+Broszkow	Zofia
+Murczynska	Laura
+Majtas	Lucja
+Odya	Kacper
+Sokolnicka	Inga
+
+
+89_3:
+
+Grzelecki	Oliwier
+Wojcicki	Aleks
+Rembiewski	Jakub
+Przytula	Jakub
+
+
+89_4:
+Liczba ocen	    Język Polski	Matematyka	Biologia	Geografia
+dopuszczających	95	            110	        101	        112
+dostatecznych	96	            106	        105	        97
+dobrych	        101	            100	        94	        96
+bardzo dobrych	108	            97	        110	        97
+celujących	    114	            101	        104	        112
+
+
+89_5:
+
+Liczba uczniów:	300
