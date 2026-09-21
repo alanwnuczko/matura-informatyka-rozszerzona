@@ -1,0 +1,60 @@
+90_1:
+Katowice	57
+Politechnika Informatyczno-Elektroniczna
+
+
+90_2:
+143 wolnych miejsc
+2256 denarów
+
+
+90_3:
+Uczelnia	                                Średnia z Dochod_na_osobe
+Akademia Sztuk Pieknych	                    1985.98
+Politechnika Informatyczno-Elektroniczna	1814.20
+Politechnika Krolewska	                    1947.34
+Uniwersytet Ekonomiczny	                    1921.06
+Uniwersytet Krolewski	                    1832.22
+Uniwersytet Muzyczny	                    2124.00
+Uniwersytet Pedagogiczny	                1858.47
+Uniwersytet Rolniczy	                    1898.49
+Uniwersytet Sportu i Turystyki	            1923.81
+Wyzsza Szkoła Techniczna	                1871.07
+
+
+90_4:
+Uczelnia	                                I	II	III	IV	V
+Akademia Sztuk Pieknych	                    32	10	6	2	5
+Politechnika Informatyczno-Elektroniczna	299	108	48	54	54
+Politechnika Krolewska	                    168	59	28	31	25
+Uniwersytet Ekonomiczny	                    32	9	3	2	7
+Uniwersytet Krolewski	                    233	77	53	32	61
+Uniwersytet Muzyczny	                    5	2	0	1	0
+Uniwersytet Pedagogiczny	                31	11	4	2	5
+Uniwersytet Rolniczy	                    27	14	7	5	6
+Uniwersytet Sportu i Turystyki	            24	5	6	3	5
+Wyzsza Szkoła Techniczna	                8	1	1	0	5
+
+
+90_5:
+Imie	Nazwisko	Uczelnia	Miejsce_zam	Rok_studiow	Dochod_na_osobe
+Michal	Bilski	Politechnika Informatyczno-Elektroniczna	Kedzierzyn-Kozle	II	2807
+Jacek	Andrzejewski	Uniwersytet Krolewski	Ruda Slaska	III	2241
+Klaudia	Kotowicz	Politechnika Informatyczno-Elektroniczna	Katowice	I	1950
+Tomasz	Kaczmarek	Uniwersytet Ekonomiczny	Wodzislaw Slaski	I	1140
+Anna	Barska	Politechnika Informatyczno-Elektroniczna	Ogrodzieniec	II	1047
+Iwona	Andrzejewska	Uniwersytet Krolewski	Ruda Slaska	I	2241
+Krzysztof	Barski	Uniwersytet Krolewski	Ogrodzieniec	I	1047
+Weronika	Kaczmarek	Politechnika Krolewska	Wodzislaw Slaski	II	1140
+Sylwester	Borkowski	Politechnika Krolewska	Szczyrk	IV	1683
+Felicja	Ostrowska	Uniwersytet Rolniczy	Tarnowskie Gory	II	2466
+Robert	Tomaszewski	Politechnika Krolewska	Wisla	IV	1511
+Przemyslaw	Kaczmarek	Uniwersytet Krolewski	Wodzislaw Slaski	III	1140
+Tadeusz	Kotowicz	Politechnika Informatyczno-Elektroniczna	Katowice	II	1950
+Piotr	Jablonski	Politechnika Informatyczno-Elektroniczna	Sanok	V	1185
+Boguslawa	Ostrowska	Uniwersytet Krolewski	Tarnowskie Gory	V	2466
+Bartosz	Tomaszewski	Politechnika Krolewska	Wisla	II	1511
+Joanna	Bilska	Politechnika Krolewska	Kedzierzyn-Kozle	I	2807
+Zygmunt	Jablonski	Politechnika Krolewska	Sanok	IV	1185
+Barbara	Barska	Uniwersytet Krolewski	Ogrodzieniec	IV	1047
+Waclawa	Borkowska	Politechnika Krolewska	Szczyrk	I	1683
