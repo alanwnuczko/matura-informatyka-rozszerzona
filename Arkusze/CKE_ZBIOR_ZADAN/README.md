@@ -17,6 +17,7 @@
 
 ## 4. Arkusz kalkulacyjny (Excel)
 **Zadanie 89 - [Punkty rekrutacyjne](Rozwiazanie/89/)**<br>
+**Zadanie 90 - [Akademiki](Rozwiazanie/90/)**<br>
 
 ## 5. Bazy danych (Access)
 **Zadanie 58 - [Dziennik ocen](Rozwiazanie/98/)**<br>
