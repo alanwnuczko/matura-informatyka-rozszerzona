@@ -20,4 +20,4 @@
 **Zadanie 90 - [Akademiki](Rozwiazanie/90/)**<br>
 
 ## 5. Bazy danych (Access)
-**Zadanie 58 - [Dziennik ocen](Rozwiazanie/98/)**<br>
+**Zadanie 98 - [Dziennik ocen](Rozwiazanie/98/)**<br>
