@@ -37,9 +37,9 @@ Każdy arkusz ma odpowiadający mu zestaw rozwiązań w [`Arkusze/`](https://git
 * Dane (ZIP)
 * Podgląd gotowego rozwiązania
 * Testy z pytań teoretycznych
+* Zadania na algorytmy
  
-[![InfMatura.dev](https://github.com/alanwnuczko/matura-informatyka-rozszerzona/raw/main/.github/images/screenshot-1.jpg)](https://infmatura.dev)
-[![InfMatura.dev/pytania-teoretyczne](https://github.com/alanwnuczko/matura-informatyka-rozszerzona/raw/main/.github/images/screenshot-2.jpg)](https://infmatura.dev/pytania-teoretyczne/)
+[![InfMatura.dev](.github/images/1.png)](https://infmatura.dev)
 
 ## Uruchomienie lokalne
 
